@@ -153,13 +153,13 @@
 
 @media(max-width: 375px){
     .nav__box-list {
-        font-size: 8px;
-        line-height: 13px;
+        font-size: 7px;
+        line-height: 11px;
     }
 
     .footer__box-list {
-        font-size: 8px;
-        line-height: 13px; 
+        font-size: 7px;
+        line-height: 11px; 
     }
 }
 
